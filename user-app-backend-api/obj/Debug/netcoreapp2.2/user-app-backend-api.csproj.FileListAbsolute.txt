@@ -1,0 +1,14 @@
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.csprojAssemblyReference.cache
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.csproj.CoreCompileInputs.cache
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.RazorAssemblyInfo.cache
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.RazorAssemblyInfo.cs
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.AssemblyInfoInputs.cache
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.AssemblyInfo.cs
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\bin\Debug\netcoreapp2.2\user-app-backend-api.deps.json
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\bin\Debug\netcoreapp2.2\user-app-backend-api.runtimeconfig.json
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\bin\Debug\netcoreapp2.2\user-app-backend-api.runtimeconfig.dev.json
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\bin\Debug\netcoreapp2.2\user-app-backend-api.dll
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\bin\Debug\netcoreapp2.2\user-app-backend-api.pdb
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.RazorTargetAssemblyInfo.cache
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.dll
+C:\Users\mmonaco\Documents\dotnet\user-app-backend\user-app-backend-api\obj\Debug\netcoreapp2.2\user-app-backend-api.pdb
